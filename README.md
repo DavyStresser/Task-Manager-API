@@ -47,4 +47,4 @@ VITE_STORAGE_USERID_KEY=""
 ## Links
 
 - [Deploy](https://task-manager-wdc.vercel.app/)
-- [API Repository](https://github.com/Davy-Stresser/Task-Manager-WDC-API/)
+- [API Repository](https://github.com/Davy-Stresser/Task-Manager-API/)
