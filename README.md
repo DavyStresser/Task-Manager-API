@@ -1,4 +1,4 @@
-# Task Manager WDC - Reprograma Jucás
+# Task Manager WDC - Technical Test for BRF 
 
 Task Manager is a Full-Stack application developed in `React` and `Node.js` to complete the offered by `BRF SA`. It was created with tools for users to manage, monitor and generate reports on their tasks in an organized and intuitive way, in addition to having a responsive version for use on cell phones.
 
